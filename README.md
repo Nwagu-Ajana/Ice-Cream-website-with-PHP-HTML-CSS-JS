@@ -1,3 +1,2 @@
 # Ice-Cream-website-with-PHP-HTML-CSS-JS
-create by ajanadevelops
-reach me on instagram for any questions @ajanadevelops
+Created by Ajanadevelops. For any questions, please reach me on Instagram. @ajanadevelops
